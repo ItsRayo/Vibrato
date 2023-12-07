@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Vibrato/static/css/main.9e62be49.css",
+    "main.js": "/Vibrato/static/js/main.bd5b397d.js",
+    "static/js/787.1937f22b.chunk.js": "/Vibrato/static/js/787.1937f22b.chunk.js",
+    "static/media/giveitaway.mp3": "/Vibrato/static/media/giveitaway.645bca193cc2b9308ddd.mp3",
+    "static/media/logo.jpg": "/Vibrato/static/media/logo.18fbdae7a408504f756c.jpg",
+    "static/media/clack.mp3": "/Vibrato/static/media/clack.17a029f1c82ac35fd7f2.mp3",
+    "static/media/click.mp3": "/Vibrato/static/media/click.f18419f8c5949b6f161e.mp3",
+    "static/media/playtime.png": "/Vibrato/static/media/playtime.8e86dff452f92f0db5ae.png",
+    "static/media/userfriendly.jpg": "/Vibrato/static/media/userfriendly.aed0ec2799130e7e8dd8.jpg",
+    "static/media/background.jpg": "/Vibrato/static/media/background.aa8a049d29edc55fe71c.jpg",
+    "static/media/cost.jpg": "/Vibrato/static/media/cost.d1e506d7da25fa7bdd9f.jpg",
+    "static/media/guitar6.jpg": "/Vibrato/static/media/guitar6.27468d4ad115ed52a62b.jpg",
+    "static/media/email.png": "/Vibrato/static/media/email.67bda94140af311d041f.png",
+    "static/media/genmusic.png": "/Vibrato/static/media/genmusic.6a96ff60d20ba4c02a33.png",
+    "index.html": "/Vibrato/index.html",
+    "main.9e62be49.css.map": "/Vibrato/static/css/main.9e62be49.css.map",
+    "main.bd5b397d.js.map": "/Vibrato/static/js/main.bd5b397d.js.map",
+    "787.1937f22b.chunk.js.map": "/Vibrato/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e62be49.css",
+    "static/js/main.bd5b397d.js"
+  ]
+}
