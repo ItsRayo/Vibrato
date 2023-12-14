@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Vibrato/static/css/main.9e62be49.css",
-    "main.js": "/Vibrato/static/js/main.6eb2c485.js",
+    "main.css": "/Vibrato/static/css/main.9ba4d3d3.css",
+    "main.js": "/Vibrato/static/js/main.e8032fdf.js",
     "static/js/787.1937f22b.chunk.js": "/Vibrato/static/js/787.1937f22b.chunk.js",
     "static/media/giveitaway.mp3": "/Vibrato/static/media/giveitaway.645bca193cc2b9308ddd.mp3",
     "static/media/logo.jpg": "/Vibrato/static/media/logo.18fbdae7a408504f756c.jpg",
@@ -15,12 +15,12 @@
     "static/media/email.png": "/Vibrato/static/media/email.67bda94140af311d041f.png",
     "static/media/genmusic.png": "/Vibrato/static/media/genmusic.6a96ff60d20ba4c02a33.png",
     "index.html": "/Vibrato/index.html",
-    "main.9e62be49.css.map": "/Vibrato/static/css/main.9e62be49.css.map",
-    "main.6eb2c485.js.map": "/Vibrato/static/js/main.6eb2c485.js.map",
+    "main.9ba4d3d3.css.map": "/Vibrato/static/css/main.9ba4d3d3.css.map",
+    "main.e8032fdf.js.map": "/Vibrato/static/js/main.e8032fdf.js.map",
     "787.1937f22b.chunk.js.map": "/Vibrato/static/js/787.1937f22b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e62be49.css",
-    "static/js/main.6eb2c485.js"
+    "static/css/main.9ba4d3d3.css",
+    "static/js/main.e8032fdf.js"
   ]
 }
